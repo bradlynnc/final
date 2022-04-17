@@ -1,0 +1,22 @@
+
+.customheader{
+    color: rgb(214, 150, 204);
+    font-family: Times New Roman;
+
+}
+
+.p{
+    font-family:'Times New Roman', Times, serif;
+  
+    margin-left: 50px;
+
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style:italic
+}
+
